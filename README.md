@@ -9,6 +9,7 @@
     NiceToMeetYou(your name here);
 
 I am driven by kindness. I am constantly learning new things.
+
 _I get bored easily so I like to keep my mind busy_
 
 I love to build software to **fight for human rights**:
