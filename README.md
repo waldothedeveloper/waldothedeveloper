@@ -6,7 +6,7 @@
       return  `Nice meeting you ${name}`;
     };
 
-    NiceToMeetYou(enter  -  your  -  name  -  here);
+    NiceToMeetYou(your name here);
 
 I am driven by kindness. I am constantly learning new things.
 _I get bored easily so I like to keep my mind busy_
