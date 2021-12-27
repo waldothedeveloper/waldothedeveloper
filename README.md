@@ -2,12 +2,6 @@
 
 **I'm Waldo**, a Full Stack Web Developer.
 
-    const  NiceToMeetYou  =  (name)  =>  {
-      return  `Nice meeting you ${name}`;
-    };
-
-    NiceToMeetYou('your name here');
-
 I am driven by kindness. I am constantly learning new things.
 
 _I get bored easily so I like to keep my mind busy_
