@@ -16,5 +16,4 @@ I love to build software to help other **businesses**:
 I love contritube to open source projects:
 <a href="https://github.com/wesbos/Syntax/issues/449" target="_blank" rel="noopener noreferrer">SYNTAX.FM by WesBos & Scott Tolinski</a>
 
-I run Originotes LLC. A small software & marketing agency focused on helping small businesses grow smart & fast.
-<a href="https://www.originotes.com" target="_blank" rel="noopener noreferrer">ORIGINOTES</a>
+I run Originotes LLC 5 days a week. A small software & marketing agency focused on helping small businesses grow smart & fast.
