@@ -6,7 +6,7 @@
       return  `Nice meeting you ${name}`;
     };
 
-    NiceToMeetYou(your name here);
+    NiceToMeetYou('your name here');
 
 I am driven by kindness. I am constantly learning new things.
 
