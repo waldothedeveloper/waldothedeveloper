@@ -13,5 +13,5 @@ I love to build software to **help others**:
 I love to build software to help other **businesses**:
 <a href="https://acfix.today/" target="_blank" rel="noopener noreferrer">ACFIX TODAY</a>
 
-I love contritube to open source projects:
+I love to contribute to open source projects:
 <a href="https://github.com/wesbos/Syntax/issues/449" target="_blank" rel="noopener noreferrer">SYNTAX.FM by WesBos & Scott Tolinski</a>
