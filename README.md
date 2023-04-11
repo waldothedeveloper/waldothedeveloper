@@ -9,4 +9,7 @@ I love to build software to **fight for human rights**:
 
 
 I love to contribute to open source projects:
+
 <a href="https://github.com/wesbos/Syntax/issues/449" target="_blank" rel="noopener noreferrer">SYNTAX.FM by WesBos & Scott Tolinski</a>
+<!-- https://github.com/clerkinc/javascript/pull/846 -->
+<a href="https://github.com/clerkinc/javascript/pull/846" target="_blank" rel="noopener noreferrer">CLERK.COM Authentication & User Management</a>
